@@ -4,6 +4,8 @@ If the student does not achieve a 6.0 on this calculation, they are given anothe
 The system also collects the student's attendance frequency, as if they do not have 75% attendance, they will be considered failed even if they pass 6.0 on the final.
 The final output displays all the data collected by the system.
 
-<a href="Python">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Javascript Badge"/>
-</a>
+<div>
+    <a href="Python">
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Javascript Badge"/>
+    </a>
+</div>
